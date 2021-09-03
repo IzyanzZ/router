@@ -1,4 +1,4 @@
-# Installation
+# Installations
 
 Follow this command to install this package
 
