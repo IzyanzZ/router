@@ -6,7 +6,7 @@ Follow this command to install this package
 composer require izyanzz/routers
 ```
 
-- (How To Usage?)[https://github.com/izyanzz/router#Usage]
+- [How To Usage](https://github.com/izyanzz/router#Usage)
 
 
 # Usage
