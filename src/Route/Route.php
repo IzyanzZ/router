@@ -4,14 +4,14 @@ namespace Axos;
 
 class Route
 {
-    var $route = [];
+    var $routes = [];
 
     static function get($action, $callback)
     {
 
-        global $route;
+        global $routes;
 
-        $action = trim($action, "/");
+        $action = trim($action, '/');
 
         $routes[$action] = $callback;
     }
