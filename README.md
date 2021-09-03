@@ -14,6 +14,7 @@ composer require izyanzz/routers
 ```
 <?php
 
+include "vendor/izyanzz/routers/src/Route/Route.php";
 use Axos\Route;
 
 Route::get('/', function() {
